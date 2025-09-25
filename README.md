@@ -7,6 +7,6 @@ This study utilized R scripts for the analysis of sequencing data and the genera
 
 ## References:
 
-(Under peer-review submission process)
+Daryna Piontkivska, João M. P. Jorge, Dalila Mil-Homens, Tiago M. Martins, Pedro Crespo, Demosthenes P. Morales, Dinah Carvalho, José Melo-Cristino, Raquel Sá-Leão, Gustavo H. Goldman, Cristina Silva Pereira. “Hidden Allies: Decoding the Core Endohyphal Bacteriome of _Aspergillus Fumigatus_” Environmental Microbiology Reports 17, no. 4 (2025): e70153. [doi: 10.1111/1758-2229.70153](https://doi.org/10.1111/1758-2229.70153)
 
-Piontkivska D, Jorge JMP, Mil-Homens D, Martins TM, Silva Pereira C. 2024. Hidden allies: Decoding the core endohyphal bacteriome of _Aspergillus fumigatus_. Research Square. [doi: 10.21203/rs.3.rs-4912975/v1](https://doi.org/10.21203/rs.3.rs-4912975/v1)
+Daryna Piontkivska, João M. P. Jorge, Dalila Mil-Homens, Tiago M. Martins, Pedro Crespo, Dinah Carvalho, José Melo-Cristino, Raquel Sá-Leão, Gustavo H. Goldman, Cristina Silva Pereira. “Hidden Allies: Decoding the Core Endohyphal Bacteriome of _Aspergillus Fumigatus_” Preprint, In Review, September 6, 2024. [doi: 10.21203/rs.3.rs-4912975/v1](https://doi.org/10.21203/rs.3.rs-4912975/v1)
